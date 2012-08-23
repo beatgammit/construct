@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/beatgammit/construct.png)](http://travis-ci.org/beatgammit/construct)
 Tl;dr
 =====
 
