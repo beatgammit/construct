@@ -9,10 +9,6 @@ Tl;dr
 
 	construct(constructor, arguments);
 
-	// OR
-
-	construct(constructor, [arg1, arg2, arg3]);
-
 Intro
 =====
 
