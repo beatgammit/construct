@@ -7,11 +7,11 @@ Tl;dr
 
 	// OR
 
-	construct(constructor, arguments);
+	construct.array(constructor, arguments);
 
 	// OR
 
-	construct(constructor, [arg1, arg2, arg3]);
+	construct.array(constructor, [arg1, arg2, arg3]);
 
 Intro
 =====
